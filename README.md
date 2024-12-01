@@ -52,9 +52,9 @@ Contact 📬
 
 You can reach me via email or connect with me on social media:
 
-    Email: your-email@example.com 📧
-    LinkedIn: your-linkedin 🔗
-    GitHub: your-github 🖥️
+    Email: balaram753.ch@gmail.com 📧
+    LinkedIn: ----- 🔗
+    GitHub: this-github 🖥️
 
 Feel free to reach out if you want to collaborate on cybersecurity projects or discuss potential opportunities. 🤝
 Technologies Used ⚙️
